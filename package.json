@@ -1,0 +1,22 @@
+{
+  "name": "npm-project",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Alex111358/npm-project.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Alex Podtykanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex111358/npm-project/issues"
+  },
+  "homepage": "https://github.com/Alex111358/npm-project#readme"
+}
